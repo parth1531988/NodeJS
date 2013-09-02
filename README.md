@@ -17,21 +17,21 @@ Training kit includes
       <li>Training Session <strong>1</strong>: <strong>Introduction to NodeJS</strong>.</li>
       <li>Training Session <strong>2</strong>: <strong>Introduction to Node Package Manager</strong>.</li>
       <li>Training Session <strong>3</strong>: <strong>Console, OS & Path related utility functions</strong>.</li>
-      <li>Training Session <strong>4</strong>: <strong>Process & Child Processes related utility functions</strong>.</li>
-      <li>Training Session <strong>5</strong>: <strong>Readline, Query-String & String-Decoder related utility functions</strong>.</li>
+      <li>Training Session <strong>4</strong>: <strong>Readline, Query-String & String-Decoder related utility functions</strong>.</li>
     </ul>
   </li>
   <li><strong>Intermediate Level</strong>
     <ul>
+      <li>Training Session <strong>5</strong>: <strong>Process & Child Processes related utility functions</strong>.</li>
       <li>Training Session <strong>6</strong>: <strong>FS related utility functions</strong>.</li>
       <li>Training Session <strong>7</strong>: <strong>Events, Glabal & Modules related utility functions</strong>.</li>
     </ul>
   </li>
   <li><strong>Advanced Level</strong>
     <ul>
-      <li>Training Session <strong>7</strong>: <strong>HTTP & HTTPS related utility functions</strong>.</li>
-      <li>Training Session <strong>8</strong>: <strong>Crypto & Debugger related utility functions</strong>.</li>
-      <li>Training Session <strong>9</strong>: <strong>Integrating NodeJS with C/C++</strong>.</li>
+      <li>Training Session <strong>8</strong>: <strong>HTTP & HTTPS related utility functions</strong>.</li>
+      <li>Training Session <strong>9</strong>: <strong>Debugger & Crypto related utility functions</strong>.</li>
+      <li>Training Session <strong>10</strong>: <strong>Integrating NodeJS with C/C++</strong>.</li>
     </ul>
   </li>
 </ul>
