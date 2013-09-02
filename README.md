@@ -41,7 +41,7 @@ How to use training kit examples
 Clone the repository and start running the examples in your browser and browse the codes with ready commits or 
 you can also experiment with the code online through Cloud environment which is powered by Cloud9 IDE.
 
-<a href="https://github.com/hegdeashwin/Backbone/archive/master.zip" target="_blank">Download this repository</a> or <a href="" target="_blank">Experiment online</a>
+<a href="https://github.com/hegdeashwin/Backbone/archive/master.zip" target="_blank">Download this repository</a> or <a href="http://c9.io/hegdeashwin/nodejs-git" target="_blank">Experiment online</a>
 
 
 Recommended text editor
