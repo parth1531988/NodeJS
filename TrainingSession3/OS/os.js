@@ -58,3 +58,16 @@ console.log("Total amount of free system memory is %d in bytes", os.freemem());
  * Returns the operating system's default directory for temp files.
 */
 console.log("Temp directory is", os.tmpdir());
+
+/*** 
+ * Returns an array of objects containing information about each CPU/core installed:
+ * model, speed (in MHz), and times
+*/
+console.log("Information about CPU/Core Installed:\n");
+console.log(os.cpus());
+
+/*** 
+ * Returns get a list of network interfaces:
+*/
+console.log("List of network interfaces:\n");
+console.log(os.networkInterfaces());
